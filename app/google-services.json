@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "251988540831",
+    "firebase_url": "https://stashed-photos-android-app.firebaseio.com",
+    "project_id": "stashed-photos-android-app",
+    "storage_bucket": "stashed-photos-android-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251988540831:android:0ba3ded430a06f2f",
+        "android_client_info": {
+          "package_name": "com.techbus.StashedPhotosApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251988540831-qi4lu20d1iuunqn6bbgpcogshf1r92se.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techbus.StashedPhotosApp",
+            "certificate_hash": "4AEFBABC4D91EF934E409C4145DDE19785964761"
+          }
+        },
+        {
+          "client_id": "251988540831-52gqvlavm3arv6up2nlhur9kkkauskv4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk80yr_17hsgT6RTa6rGsrDFxGSg-rw2E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251988540831-52gqvlavm3arv6up2nlhur9kkkauskv4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
