@@ -168,12 +168,12 @@
         "source": "/Users/sravan/Desktop/work/Stashed Photos app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "/Users/sravan/Desktop/work/Stashed Photos app/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
-        "source": "/Users/sravan/Desktop/work/Stashed Photos app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_search_view.xml"
-    },
-    {
         "merged": "/Users/sravan/Desktop/work/Stashed Photos app/app/build/intermediates/res/merged/debug/layout/search_bar.xml",
         "source": "/Users/sravan/Desktop/work/Stashed Photos app/app/src/main/res/layout/search_bar.xml"
+    },
+    {
+        "merged": "/Users/sravan/Desktop/work/Stashed Photos app/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/sravan/Desktop/work/Stashed Photos app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/layout/abc_search_view.xml"
     },
     {
         "merged": "/Users/sravan/Desktop/work/Stashed Photos app/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",

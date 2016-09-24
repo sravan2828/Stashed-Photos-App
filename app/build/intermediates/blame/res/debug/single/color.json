@@ -40,12 +40,12 @@
         "source": "/Users/sravan/Desktop/work/Stashed Photos app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color/switch_thumb_material_dark.xml"
     },
     {
-        "merged": "/Users/sravan/Desktop/work/Stashed Photos app/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
-        "source": "/Users/sravan/Desktop/work/Stashed Photos app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color/abc_primary_text_disable_only_material_light.xml"
-    },
-    {
         "merged": "/Users/sravan/Desktop/work/Stashed Photos app/app/build/intermediates/res/merged/debug/color/nav_drawer_item_main_text.xml",
         "source": "/Users/sravan/Desktop/work/Stashed Photos app/app/src/main/res/color/nav_drawer_item_main_text.xml"
+    },
+    {
+        "merged": "/Users/sravan/Desktop/work/Stashed Photos app/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/sravan/Desktop/work/Stashed Photos app/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
         "merged": "/Users/sravan/Desktop/work/Stashed Photos app/app/build/intermediates/res/merged/debug/color/selector.xml",

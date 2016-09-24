@@ -4,22 +4,30 @@
     api-level="21"
     density="xxhdpi"
     format="7"
-    timestamp="60759746500338"
+    timestamp="94593110424287"
     token="-153395138423358955" >
 
     <task
         name="javac"
-        duration="0" />
+        duration="2609" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="0" />
+        duration="597" />
     <task
         name="verifier"
-        duration="0" />
+        duration="48" />
 
-    <build timestamp="60759746500338" />
+    <artifact
+        location="/Users/sravan/Desktop/work/Stashed Photos app/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="94593110424287" >
+        <artifact
+            location="/Users/sravan/Desktop/work/Stashed Photos app/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
 
 </instant-run>
