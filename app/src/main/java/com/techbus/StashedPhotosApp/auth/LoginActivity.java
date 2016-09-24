@@ -52,6 +52,7 @@ public class LoginActivity extends Activity {
         setActionBar(toolbar);
 
 
+
         inputEmail = (EditText) findViewById(R.id.email);
         inputPassword = (EditText) findViewById(R.id.password);
         progressBar = (ProgressBar) findViewById(R.id.progressBar);
